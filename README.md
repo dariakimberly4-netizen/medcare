@@ -1,37 +1,19 @@
-# Medcare
-<p style="text-align: justify;"  align="center">Create a complete responsive hospital / medical store / medical website design template using html css and vanilla javascript.</p>
+# MedCare Clinic — Redesigned Portfolio Demo
 
+A modern, responsive single-clinic website built from the original MedCare template.
 
-![download](https://user-images.githubusercontent.com/71099757/131668021-9e24f2e9-c554-43a9-b4e1-c97a3e102439.png)
+## What changed
+- Replaced Lorem Ipsum and fake hospital statistics
+- Removed the generic six-doctor directory
+- Added a premium single-clinic layout
+- Added patient-friendly service cards
+- Added a simple 3-step patient flow
+- Redesigned the appointment form
+- Added mobile navigation and subtle scroll reveals
+- Improved spacing, typography, accessibility, and one-hand mobile usability
 
-<p style="font-size:50rem;" align="center" >Full Web Page</p>
+## Important
+This repository is a **portfolio/demo website**. Replace all demo services and clinic information with verified real-world information before using it for a medical practice. The appointment form is front-end only and does not send or store data yet.
 
-![Web capture_1-9-2021_18047_medcare-hospital netlify app](https://user-images.githubusercontent.com/71099757/131667998-dd8a1a92-1373-4d29-b3ee-8260a4bb6a1e.jpeg)
-
-
-<p style="text-align: justify;" align="center">The main feature of this website are:
-
-✔ responsive header section using flexbox.
-
-✔ responsive home section using css flexbox.
-
-✔ responsive count box section using css grid.
-
-✔ responsive services box section using css grid.
-
-✔ responsive about section using css flexbox.
-
-✔ responsive team card section using css grid.
-
-✔ responsive contact / booking form section using css flexbox.
-
-✔ responsive testimonial / review card section using css grid.
-
-✔ responsive blogs / post / news box section using css grid.
-
-✔ responsive footer section using css grid.</p>
-
-<p align="center" >If you like it than don't forget to hit the APPRECIATE button also!</p>
-
-<p align="center" >Show some ❤️ by starring some of the repositories!</p>
-
+## Original template
+Original MedCare template by Zaki Chowdhury. This fork contains a redesigned presentation and updated demo content.
